@@ -1,6 +1,6 @@
 unrealEngine_runner/Plugins
-unrealEngine_runner/Saved/*
-
+unrealEngine_runner/Saved
+unrealEngine_runner/Intermediate
 # Visual Studio 2015 user specific files
 .vs/
 
